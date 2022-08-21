@@ -19,11 +19,11 @@ function App() {
   // useEffect(() => {
   //   WebFont.load({
   //     google: {
-  //       families: getFonts()
-  //     }
+  ////       families: getFonts()
+  ////     }
   //   });
   // });
-
+  // Fix this
   // 5: Render if the theme is loaded.
   return (
     <>
